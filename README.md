@@ -133,7 +133,7 @@
 <h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/dibyam2701y"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
+  <a href="https://www.buymeacoffee.com/dibyam2701y"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
 </p>
 <br />
 
