@@ -8,7 +8,7 @@
 <!-- Greeting -->
 <h1 align="center">Hey there👋, I'm Dibyaranjan Maharana</h1>
 
-<h4 align="left">🌟 I craft web magic and Flutter apps in my downtime, while diving deep into Cloud Computing and AI/ML. A 3rd-year B.Tech Computer Science student, I’m sharpening my skills and exploring IT to unlock new horizons!</h4>
+<h4 align="left">🌟 I craft web magic and Flutter apps in my downtime, while diving deep into Cloud Computing and AI/ML. A 4th-year B.Tech Computer Science student, I’m sharpening my skills and exploring IT to unlock new horizons!</h4>
 
  <div align="center">
   <a href="https://github.com/Dibyaranjan27">
