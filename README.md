@@ -13,18 +13,21 @@
  <div align="center">
   <a href="https://github.com/Dibyaranjan27">
     <img width="162px" 
-         src="https://komarev.com/ghpvc/?username=Dibyaranjan27&label=Profile%20views&color=5FABEE&style=for-the-badge&abbreviated=true" 
-         alt="Profile views" /></a>
-  <a href="https://api.github-star-counter.workers.dev/user/Dibyaranjan27">
+         src="https://komarev.com/ghpvc/?username=Dibyaranjan27&label=Profile+views&color=5FABEE&style=for-the-badge&abbreviated=true&v=1" 
+         alt="Profile views" />
+  </a>
+  <a href="https://github.com/Dibyaranjan27?tab=repositories">
     <img width="115px" 
          alt="Total stars" 
          title="Total stars on GitHub" 
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5FABEE&labelColor=030314&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Dibyaranjan27" /></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/Dibyaranjan27?style=for-the-badge&color=5FABEE&labelColor=030314&logo=star&label=Stars" />
+  </a>
   <a href="https://github.com/Dibyaranjan27?tab=followers">
     <img width="147px" 
          alt="Followers" 
          title="Follow me on GitHub" 
-         src="https://custom-icon-badges.herokuapp.com/github/followers/Dibyaranjan27?color=5FABEE&labelColor=030314&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+         src="https://custom-icon-badges.demolab.com/github/followers/Dibyaranjan27?color=5FABEE&labelColor=030314&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+  </a>
 </div>
 
 <img align="right" alt="coding-gif" width="400" src="coding-vibe.gif">
