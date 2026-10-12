@@ -12,8 +12,7 @@
 
  <div align="center">
   <a href="https://github.com/Dibyaranjan27">
-    <img width="162px" 
-         src="https://komarev.com/ghpvc/?username=Dibyaranjan27&label=Profile+views&color=5FABEE&style=for-the-badge&abbreviated=true&v=1" 
+    <img src="https://api.visitorbadge.io/api/visitors?path=Dibyaranjan27.Dibyaranjan27&label=Profile%20views&labelColor=030314&countColor=5FABEE&style=for-the-badge" 
          alt="Profile views" />
   </a>
   <a href="https://github.com/Dibyaranjan27?tab=repositories">
